@@ -25,7 +25,7 @@ pip install openai langchain chromadb
 ## Setup
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/king04aman/custom-gpt.git
+    git clone https://github.com/eastonwilliam/Python-GPT.git
     cd your_repository
     ```
 2. Set the OpenAI API Key:
